@@ -1,0 +1,23 @@
+{
+    "name": "proyecto404/gigya-php-SDK",
+    "description": "Gigya PHP SDK",
+    "type": "library",
+    "keywords": ["gigya", "authentication"],
+    "homepage": "http://developers.gigya.com/display/GD/PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nicolas Bottarini",
+            "email": "nicolasbottarini@gmail.com",
+            "homepage": "http://www.nicolasbottarini.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "classmap": ["GSSDK.php"]
+    },
+    "extra": {
+    }
+}
