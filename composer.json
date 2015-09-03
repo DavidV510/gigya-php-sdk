@@ -1,5 +1,5 @@
 {
-    "name": "proyecto404/gigya-php-SDK",
+    "name": "proyecto404/gigya-php-sdk",
     "description": "Gigya PHP SDK",
     "type": "library",
     "keywords": ["gigya", "authentication"],
