@@ -10,7 +10,7 @@ For more information please refer to the [official documentation](http://develop
 You can install this library using composer
 
 ``` bash
-$ php composer.phar require proyecto404/gigya-php-sdk "dev-master" --dev
+$ php composer.phar require proyecto404/gigya-php-sdk "dev-master"
 ```
 
 or add the package to your `composer.json` file directly.
